@@ -1,0 +1,5 @@
+__author__ = "Helmy Saker"
+__date__ = "5/17/2021"
+__copyright__ = "AccuStrata, Inc. 2021"
+__project__ = "QtRefl1D"
+__license__ = "Released under MIT License"

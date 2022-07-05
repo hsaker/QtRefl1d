@@ -1,0 +1,4 @@
+PySide6
+refl1d
+numpy
+pyqtgraph
